@@ -3,42 +3,42 @@
         {
             "id": "id1",
             "title": "Sample is ready for lab",
-            "body" : 14:30
+            "body" : 14.35
         },
         {
             "id": "id2",
             "title": "New order",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id3",
             "title": "Sample is ready for lab",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id4",
             "title": "New order",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id5",
             "title": "New order",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id6",
             "title": "New order",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id7",
             "title": "New order",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id8",
             "title": "sample is in the lab",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id9",
@@ -48,59 +48,59 @@
         {
             "id": "id10",
             "title": "sample is in the lab",
-            "body" : 14.50
+            "body" : 14.55
         },
         {
 
             "id": "id11",
             "title": "sample is in the lab",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
 
             "id": "id12",
             "title": "sample is in the lab",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id13",
             "title": "sample is in the lab",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id14",
             "title": "sample is in the lab",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id15",
             "title": "sample is in the lab",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id16",
             "title": "New order",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id17",
             "title": "New order",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id18",
             "title": "New order",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id19",
             "title": "New order",
-            "body" : 14.30
+            "body" : 14.35
         },
         {
             "id": "id20",
             "title": "New order",
-            "body" : 14.30
+            "body" : 14.35
         }
     ]
 }
