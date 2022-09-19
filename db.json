@@ -2,7 +2,7 @@
     "posts": [
         {
             "id": "id1",
-            "title": "Sample is ready for lab",
+            "title": "Sample is ready for the lab",
             "body" : 14.35
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "id": "id3",
-            "title": "Sample is ready for lab",
+            "title": "Sample is ready for the lab",
             "body" : 14.35
         },
         {
@@ -37,44 +37,44 @@
         },
         {
             "id": "id8",
-            "title": "sample is in the lab",
+            "title": "Sample is in the lab",
             "body" : 14.35
         },
         {
             "id": "id9",
-            "title": "sample is in the lab",
+            "title": "Sample is in the lab",
             "body" : 14.33
         },
         {
             "id": "id10",
-            "title": "sample is in the lab",
+            "title": "Sample is in the lab",
             "body" : 14.55
         },
         {
 
             "id": "id11",
-            "title": "sample is in the lab",
+            "title": "Sample is in the lab",
             "body" : 14.35
         },
         {
 
             "id": "id12",
-            "title": "sample is in the lab",
+            "title": "Sample is in the lab",
             "body" : 14.35
         },
         {
             "id": "id13",
-            "title": "sample is in the lab",
+            "title": "Sample is in the lab",
             "body" : 14.35
         },
         {
             "id": "id14",
-            "title": "sample is in the lab",
+            "title": "Sample is in the lab",
             "body" : 14.35
         },
         {
             "id": "id15",
-            "title": "sample is in the lab",
+            "title": "Sample is in the lab",
             "body" : 14.35
         },
         {
